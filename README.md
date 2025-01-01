@@ -31,8 +31,8 @@
 
 ### Additional Info:
 - 🚀 **Open to collaboration** on exciting projects.
-- 🌱 **Currently learning** advanced design patterns and scalable architectures.
-- 💬 Feel free to ask me about **Flutter, Firebase, or CI/CD pipelines**.
+- 🌱 **Currently learning** advanced Flutter techniques and CI/CD pipelines.
+- 💬 Feel free to ask me about **Flutter**.
 
 ---
 
