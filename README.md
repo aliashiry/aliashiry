@@ -17,16 +17,6 @@
 - **Frameworks:**  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
   
--**Technologies & Architecture**:
-- **Firebase**  
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-- **Hive**  
-  ![Hive](https://img.shields.io/badge/Hive-FF9C0C?style=flat&logo=hive&logoColor=white)
-- **Clean Architecture**  
-  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2A6?style=flat&logo=clean-architecture&logoColor=white)
-- **MVVM**  
-  ![MVVM](https://img.shields.io/badge/MVVM-4A90E2?style=flat&logo=architecture&logoColor=white)
-  
 ---
 
 ### GitHub Stats:
