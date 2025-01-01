@@ -17,8 +17,25 @@
 - **Frameworks and Tools:**  
   ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+  ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2A6?style=flat&logo=clean-architecture&logoColor=white)
+  ![CI/CD Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+
+---
+
+### GitHub Stats:
+![Ali Hassan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aliashiry&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aliashiry&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliashiry&theme=radical)
+
+---
+
+### Additional Info:
+- 🚀 **Open to collaboration** on exciting projects.
+- 🌱 **Currently learning** advanced design patterns and scalable architectures.
+- 💬 Feel free to ask me about **Flutter, Firebase, or CI/CD pipelines**.
 
 ---
 
 ### Where to find me:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-hassan-654350197)
+- [![GitHub Profile](https://img.shields.io/badge/GitHub-171515?style=flat&logo=github&logoColor=white)](https://github.com/aliashiry)
