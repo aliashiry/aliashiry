@@ -1,6 +1,6 @@
 # Hello! 👋
 
-**I'm Ali Hassan, a passionate developer!**
+**I'm Ali Hassan, a Flutter Developer!**
 
 - 🔭 Currently working at **Forgotten Mines**.
 - 💻 **Programming Languages:** Dart, Java, C#.
